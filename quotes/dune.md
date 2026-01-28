@@ -5,5 +5,9 @@
 <<<<<<< HEAD
 =======
 - "The spice must flow."
+<<<<<<< HEAD
 
 >>>>>>> c8bbe3b (H: add THESPICEMUSTFLOW to dune.md)
+=======
+- "Fear is the mind-killer."
+>>>>>>> 0473d38 (I: add FEARISTHEMINDKILLER to dune.md)
